@@ -1,0 +1,678 @@
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\bin\Debug\ServiceDefinition.csdef
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Antlr3.Runtime.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Antlr3.Runtime.pdb
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\de\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\EntityFramework.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\EntityFramework.SqlServer.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\EntityFramework.SqlServer.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\EntityFramework.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\es\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\fr\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ImageSharingWithCloudService.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ImageSharingWithCloudService.dll.config
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ImageSharingWithCloudService.pdb
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\it\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ja\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ko\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Edm.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Edm.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.OData.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.OData.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Services.Client.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Services.Client.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.ServiceBus.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.ServiceBus.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\MonAgentListener.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Newtonsoft.Json.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Newtonsoft.Json.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Owin.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\csc.exe
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\vbc.exe
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ru\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Extensions.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Extensions.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Formatting.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Formatting.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Primitives.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Primitives.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Spatial.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Spatial.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Helpers.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Helpers.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Http.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Http.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Mvc.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Mvc.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Optimization.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Optimization.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Razor.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Razor.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\WebGrease.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Antlr3.Runtime.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Antlr3.Runtime.pdb
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\de\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\EntityFramework.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\EntityFramework.SqlServer.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\es\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\fr\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWithCloudService.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWithCloudService.pdb
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.dll.config
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.pdb
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\it\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ja\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ko\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.Core.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.Edm.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.OData.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.Services.Client.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.Cookies.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.OAuth.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.ServiceBus.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Threading.Tasks.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Web.Infrastructure.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Storage.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\MonAgentListener.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Newtonsoft.Json.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Owin.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\csc.exe
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\System.Collections.Immutable.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\System.Reflection.Metadata.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\vbc.exe
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\VBCSCompiler.exe
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\VBCSCompiler.exe.config
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ru\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Net.Http.Extensions.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Net.Http.Primitives.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Spatial.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.Mvc.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.Optimization.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.Razor.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.Deployment.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.Razor.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\WebGrease.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hans\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\CS 526\Assignment 3\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hant\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\bin\Debug\ServiceDefinition.csdef
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Antlr3.Runtime.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Antlr3.Runtime.pdb
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\de\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\EntityFramework.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\EntityFramework.SqlServer.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\EntityFramework.SqlServer.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\EntityFramework.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\es\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\fr\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ImageSharingWithCloudService.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ImageSharingWithCloudService.dll.config
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ImageSharingWithCloudService.pdb
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\it\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ja\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ko\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Edm.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Edm.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.OData.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.OData.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Services.Client.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Services.Client.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.ServiceBus.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.ServiceBus.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\MonAgentListener.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Newtonsoft.Json.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Newtonsoft.Json.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Owin.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\csc.exe
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\vbc.exe
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ru\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Extensions.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Extensions.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Formatting.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Formatting.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Primitives.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Primitives.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Spatial.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Spatial.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Helpers.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Helpers.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Http.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Http.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Mvc.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Mvc.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Optimization.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Optimization.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Razor.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Razor.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.xml
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\WebGrease.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Antlr3.Runtime.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Antlr3.Runtime.pdb
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\de\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\EntityFramework.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\EntityFramework.SqlServer.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\es\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\fr\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWithCloudService.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWithCloudService.pdb
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.dll.config
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.pdb
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\it\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ja\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ko\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.Core.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.Edm.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.OData.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.Services.Client.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.Cookies.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.OAuth.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.ServiceBus.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Threading.Tasks.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Web.Infrastructure.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Storage.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\MonAgentListener.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Newtonsoft.Json.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Owin.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\csc.exe
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\System.Collections.Immutable.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\System.Reflection.Metadata.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\vbc.exe
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\VBCSCompiler.exe
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\VBCSCompiler.exe.config
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ru\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Net.Http.Extensions.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Net.Http.Primitives.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Spatial.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.Mvc.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.Optimization.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.Razor.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.Deployment.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.Razor.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\WebGrease.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hans\System.Spatial.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\smalhot1\Documents\Visual Studio 2015\Projects\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hant\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\bin\Debug\ServiceConfiguration.cscfg
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\bin\Debug\ServiceDefinition.csdef
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Antlr3.Runtime.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Antlr3.Runtime.pdb
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\de\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\EntityFramework.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\EntityFramework.SqlServer.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\EntityFramework.SqlServer.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\EntityFramework.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\es\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\fr\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ImageSharingWithCloudService.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ImageSharingWithCloudService.dll.config
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ImageSharingWithCloudService.pdb
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\it\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ja\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ko\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Edm.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Edm.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.OData.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.OData.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Services.Client.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Data.Services.Client.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Google.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Google.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.Security.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Owin.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.ServiceBus.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.ServiceBus.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.Extensions.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.Extensions.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Threading.Tasks.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.Web.Infrastructure.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Microsoft.WindowsAzure.Storage.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\MonAgentListener.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Newtonsoft.Json.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Newtonsoft.Json.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\Owin.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\csc.exe
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\System.Collections.Immutable.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\System.Reflection.Metadata.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\vbc.exe
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\VBCSCompiler.exe
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\roslyn\VBCSCompiler.exe.config
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\ru\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Extensions.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Extensions.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Formatting.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Formatting.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Primitives.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Net.Http.Primitives.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Spatial.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Spatial.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Helpers.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Helpers.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Http.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Http.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Mvc.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Mvc.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Optimization.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Optimization.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Razor.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.Razor.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Deployment.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Deployment.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Razor.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.Razor.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\System.Web.WebPages.xml
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\WebGrease.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hans\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWebRole\bin\zh-Hant\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Antlr3.Runtime.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Antlr3.Runtime.pdb
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\de\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\de\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\EntityFramework.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\EntityFramework.SqlServer.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\es\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\es\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\fr\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\fr\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWithCloudService.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWithCloudService.pdb
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.dll.config
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ImageSharingWorkerRole.pdb
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\it\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\it\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ja\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ja\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ko\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ko\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.Core.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.AspNet.Identity.Owin.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.Edm.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.OData.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Data.Services.Client.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Host.SystemWeb.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.Cookies.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Owin.Security.OAuth.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.ServiceBus.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Threading.Tasks.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Threading.Tasks.Extensions.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.Web.Infrastructure.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Configuration.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Microsoft.WindowsAzure.Storage.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\MonAgentListener.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Newtonsoft.Json.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\Owin.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\csc.exe
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.CSharp.Core.targets
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\System.Collections.Immutable.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\System.Reflection.Metadata.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\vbc.exe
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\VBCSCompiler.exe
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\roslyn\VBCSCompiler.exe.config
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ru\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\ru\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Net.Http.Extensions.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Net.Http.Primitives.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Spatial.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.Mvc.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.Optimization.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.Razor.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.Deployment.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\System.Web.WebPages.Razor.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\WebGrease.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hans\System.Spatial.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+G:\Prithvi\ImageSharingWithCloudService\ImageSharingWithCloudService.Azure1\obj\Debug\ImageSharingWorkerRole\zh-Hant\System.Spatial.resources.dll

@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "Find an Image";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@{
+    Html.BeginForm("Query", "Images", FormMethod.Post, new { enctype = "multipart/form-data" });
+}
+
+<fieldset>
+    <legend>Enter Image Information </legend>
+    @Html.AntiForgeryToken()
+    <p>
+        Image id: @Html.TextBox("Id")
+    </p>
+    <p>
+        <input type="submit" value="Query" />
+    </p>
+</fieldset>
+
+@ViewBag.Message
+
+@{ Html.EndForm(); }
+
+
+
+
+
+
+
+
+
+
+
+
+

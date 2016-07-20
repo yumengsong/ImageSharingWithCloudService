@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ImageSharingWithCloudService.Models.Image>
+@{
+    ViewBag.Title = "All Images";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+
+<h2>@ViewBag.Title</h2>
+@ViewBag.Message
+<table border="1">
+    <tr>
+        <th>Caption</th>
+        <th>Uploader</th>
+        <th>Tag</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var image in Model)
+    {
+        <tr>
+            <td>
+                @image.Caption
+            </td>
+            <td>
+                @image.User.UserName
+            </td>
+            <td>
+                @image.Tag.Name
+            </td>
+            <td>
+
+                @Html.ActionLink("Details", "Details", new { Id = image.Id })
+                @if (ViewBag.userid.Equals(image.User.Id))
+                {
+                    <text>
+                        @Html.ActionLink("Edit", "Edit", new { Id = image.Id })
+                        @Html.ActionLink("Delete", "Delete", new { Id = image.Id })
+                    </text>
+                }
+
+            </td>
+        </tr>
+    }
+</table>
+
+
+
+

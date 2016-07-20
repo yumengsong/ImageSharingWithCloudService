@@ -1,0 +1,51 @@
+﻿@using ImageSharingWithCloudService.Service_Bus
+
+@{
+
+    ViewBag.Title = "Messages";
+
+    Layout = "~/Views/Shared/Layout.cshtml";
+    int count = QueueConnector.queueLength(ViewBag.QueueName);
+    //ValidationQueue.createQueue(ViewBag.QueueName);
+    while (count != 0)
+    {
+        Microsoft.WindowsAzure.Storage.Queue.CloudQueueMessage messageC = QueueConnector.dequeueMessage(ViewBag.QueueName);
+        if (messageC != null)
+        {
+            QueueConnector.deleteMessage(ViewBag.QueueName, messageC);
+            count--;
+        }
+    }
+
+}
+<h2>Messages</h2>
+<fieldset>
+    <table class="table-bordered" border="1">
+        <tr>
+            <th>Time</th>
+            <th>Cotent</th>
+        </tr>
+        @{
+
+            int count1 = QueueConnector.queueLength(ViewBag.QueueName);
+            //ValidationQueue.createQueue(ViewBag.QueueName);
+        }
+        @{
+            if (count1 != 0)
+            {
+
+            }
+
+            else
+
+            {
+                ViewBag.Message = "Messages are deleted sucessfully.";
+            }
+            }
+
+        
+
+
+    </table>
+</fieldset>
+<p>@ViewBag.Message</p>

@@ -1,0 +1,64 @@
+﻿@using ImageSharingWithCloudService.Service_Bus
+@{
+     Layout = "~/Views/Shared/Layout.cshtml";
+}
+@{
+    ViewBag.Title = "Messages";
+    int count = QueueConnector.queueLength(ViewBag.QueueName);
+    QueueConnector.createQueue(ViewBag.QueueName);
+    int initial = count;
+}
+<h2>Messages</h2>
+<fieldset>
+    <table class="table-bordered" border="1">
+        <tr>
+            <th>Time</th>
+            <th>Cotent</th>
+        </tr>
+        @{if (count != 0)
+            {
+                while (count != 0)
+                {
+                    Microsoft.WindowsAzure.Storage.Queue.CloudQueueMessage messageC = QueueConnector.dequeueMessage(ViewBag.QueueName);
+                    if (messageC != null)
+                    {
+
+                        string message = messageC.AsString;
+                        string text = message.Split(',')[0];
+                        string time = message.Split(',')[1];
+                        count--;
+                        //string time = message.Split(',')[2];
+                        //string text = message.Split(',')[1] + ": " + message.Split(',')[0];
+                        // MessageQueue.deleteMessage(ViewBag.QueueName, messageC);
+
+                        <tr>
+                            <td>
+                                @time
+                            </td>
+                            <td>
+                                @text
+                            </td>
+                        </tr>
+                    }
+                }
+            }
+            else
+            {
+                ViewBag.Message = "No Messages";
+            }
+        }
+    </table>
+</fieldset>
+@{
+    if (initial != 0)
+    {
+        <p>
+            <input type="button" title="ClearMessages" value="ClearMessages" onclick="location.href='@Url.Action("DeleteMessages", "Images")'" />
+        </p>
+    }
+    else
+    {
+        <p>@ViewBag.Message </p>
+    }
+
+}
